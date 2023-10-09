@@ -41,3 +41,11 @@ Jika Memilih opsi 4. Admin dapat menghapus produk yang terdaftar dengan memasukk
 ### Keluar (Opsi Tambahan)
 Di menu admin. Jika Memilih opsi 5, maka admin akan langsung keluar dari program
 ![keluar program](https://github.com/ivaryu/toko-mouse/assets/144821955/7584f5d5-7412-4aab-819e-b6340e0901f8)
+
+### Output Program
+Sebagai Pembeli :
+![output pembeli](https://github.com/ivaryu/toko-mouse/assets/144821955/227033c6-717d-4705-abd3-7e4a6ea194fa)
+
+Sebagai Admin :
+![output admin1](https://github.com/ivaryu/toko-mouse/assets/144821955/fd3153af-33a8-44b0-90f3-cc3f01a8f6e8)
+![output admin2](https://github.com/ivaryu/toko-mouse/assets/144821955/552377bf-d1d9-48f2-b719-69a5a13bd519)
