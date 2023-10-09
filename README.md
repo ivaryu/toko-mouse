@@ -1,6 +1,6 @@
 # Post-Test 2, CRUD
 ## Flowchart
-![flowchrt](https://github.com/ivaryu/toko-mouse/assets/144821955/68ab8b81-50b5-46be-8844-148248f0b700)
+![flowchrt](https://github.com/ivaryu/toko-mouse/assets/144821955/a8e6acec-9269-4f9e-93d6-686ae6ff2f7f)
 
 
 ## Program
