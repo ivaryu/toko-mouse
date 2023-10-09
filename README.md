@@ -13,5 +13,6 @@ Jika berhasil masuk sebagai pembeli, maka akan ditampilkan menu khusus pembeli. 
 ![menu pembeli](https://github.com/ivaryu/toko-mouse/assets/144821955/5376a4b5-f302-43e1-9205-14cb8b8dd124)
 
 ### Menu Admin
-
+Jika berhasil masuk sebagai admin, maka akan ditampilkan menu khusus admin. Admin memiliki wewenang untuk menambah, menampilkan, mengubah, dan menghapus produk/data yang ada. Karena menggunakan whileLoop, saya memberikan opsi keluar agar admin dapat keluar dari program. Di sini saya menggunakan pemanggilan function/fungsi untuk tiap-tiap opsi wewenang admin, kecuali opsi keluar program.
+![menu admin](https://github.com/ivaryu/toko-mouse/assets/144821955/ce8fc319-b9e1-4873-a070-f5a01ef61d9c)
 
