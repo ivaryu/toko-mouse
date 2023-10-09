@@ -1,6 +1,7 @@
 # Post-Test 2, CRUD
 ## Flowchart
-![flowchrt](https://github.com/ivaryu/toko-mouse/assets/144821955/fae9ef4c-7c21-4843-bdc7-b0644e8bf2a4)
+![flowchrt](https://github.com/ivaryu/toko-mouse/assets/144821955/68ab8b81-50b5-46be-8844-148248f0b700)
+
 
 ## Program
 Dalam program ini, saya menggunakan function, while loop, percabangan if else elif, dan PrettyTable
