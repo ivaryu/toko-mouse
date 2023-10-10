@@ -15,7 +15,7 @@ Saya menggunakan list dan PrettyTable (dan library prettytable yang lainnya) unt
 
 
 ### Menu Pembeli + Transaksi
-Jika berhasil masuk sebagai pembeli, maka akan ditampilkan menu khusus pembeli. Pengguna dapat mengakses menu "Lihat Mouse", "Beli Mouse", dan "Keluar". Program dapat dihentikan dengan mengakses opsi ke tiga atau saat melakukan pembelian, dan tidak ingin melanjutkan pembelian mouse. Menggunakan fungsi agar dapat memudahkan pemrogaman, dan menggunakan loop agar data yang diinput tidak valid, program tidak langsung berhenti.
+Jika berhasil masuk sebagai pembeli, maka akan ditampilkan menu khusus pembeli. Pengguna dapat mengakses menu "Lihat Mouse", "Beli Mouse", dan "Keluar". Program dapat dihentikan dengan mengakses opsi ke tiga atau saat melakukan pembelian, dan tidak ingin melanjutkan pembelian mouse. Menggunakan fungsi agar dapat memudahkan pemrogaman, dan menggunakan loop agar data yang diinput tidak valid program tidak berhenti.
 ![menu pembeli](https://github.com/ivaryu/toko-mouse/assets/144821955/5376a4b5-f302-43e1-9205-14cb8b8dd124)
 
 ### Menu Admin
